@@ -1,5 +1,5 @@
 import React from 'react'
-import MAP from '../Images/MAP.png'
+import mapimg from '../Images/MAP.png'
 
 const Contact = () => {
     return (
@@ -28,7 +28,7 @@ const Contact = () => {
                 <div className="col-md-6 mx-auto">
                     <h1>Where you can find us</h1>
                     <p> Second Foor, 90 Feet Rd, above Swaminarayan Temple, Jaigayatri Co-op Housing Society, Garodia Nagar, Ghatkopar East, Mumbai, Maharashtra 400077</p>
-                    <img alt="Map" src={MAP.png} className="w-10" style={{ height: '10vh' }} />
+                    <img alt="Map" src={mapimg} className="w-30" style={{ height: '30vh' }} />
                 </div>
             </div>
         </div>

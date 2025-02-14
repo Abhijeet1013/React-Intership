@@ -15,8 +15,8 @@ const AboutUs = () => {
                     </p>
                 </div>
                 <div className="col-md-4">
-                    <img alt="Cultfit" src={logo1.png} className="w-10" style={{ height: '10vh', objectFit: 'cover' }} />
-                    <img alt="feet" src={logo2.png} className="w-10" style={{ height: '10vh', objectFit: 'cover' }} />
+                    <img alt="Cultfit" src={logo1} className="w-20" style={{ height: '20vh', objectFit: 'cover' }} />
+                    <img alt="feet" src={logo2} className="w-20" style={{ height: '20vh', objectFit: 'cover' }} />
                 </div>
             </div>
         </div>
